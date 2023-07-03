@@ -11765,6 +11765,11 @@
   "resolved" "https://registry.npmjs.org/value-equal/-/value-equal-1.0.1.tgz"
   "version" "1.0.1"
 
+"vanilla-tilt@^1.7.2":
+  "integrity" "sha512-arf2wY2Y65rP6Zxve9PnUUnRl9nQ1KenPNae6QRaVq/PEvaIto2bC4jYirNJ19U7nLkzI1H9O+nYtcQlX7BTsA=="
+  "resolved" "https://registry.npmjs.org/vanilla-tilt/-/vanilla-tilt-1.7.2.tgz"
+  "version" "1.7.2"
+
 "vary@~1.1.2":
   "integrity" "sha1-IpnwLG3tMNSllhsLn3RSShj2NPw="
   "resolved" "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz"
